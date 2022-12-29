@@ -1,4 +1,4 @@
-import Indicator from '@/base-ui/indicator'
+import Indicator from '@/base-ui/Indicator'
 import React, { memo, useState } from 'react'
 import { DemoWrapper } from './style'
 
